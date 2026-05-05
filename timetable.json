@@ -1,0 +1,47 @@
+{
+    "version": "2.0",
+    "lastUpdate": "2026-05-05",
+    "grades": {
+        "七年级": {
+            "periods": [
+                {"number": 1, "start": "07:50", "end": "08:30", "duration": 40, "type": "normal"},
+                {"number": 2, "start": "08:40", "end": "09:20", "duration": 40, "type": "normal"},
+                {"number": 3, "start": "10:00", "end": "10:40", "duration": 40, "type": "normal"},
+                {"number": 4, "start": "10:50", "end": "11:30", "duration": 40, "type": "normal"},
+                {"number": 5, "start": "14:10", "end": "14:50", "duration": 40, "type": "normal"},
+                {"number": 6, "start": "15:05", "end": "15:45", "duration": 40, "type": "normal"},
+                {"number": 7, "start": "15:55", "end": "16:35", "duration": 40, "type": "normal"}
+            ]
+        },
+        "八年级": {
+            "periods": [
+                {"number": 1, "start": "07:50", "end": "08:30", "duration": 40, "type": "normal"},
+                {"number": 2, "start": "08:40", "end": "09:20", "duration": 40, "type": "normal"},
+                {"number": 3, "start": "10:00", "end": "10:55", "duration": 55, "type": "long"},
+                {"number": 4, "start": "11:05", "end": "12:00", "duration": 55, "type": "long"},
+                {"number": 5, "start": "14:10", "end": "14:50", "duration": 40, "type": "normal"},
+                {"number": 6, "start": "15:05", "end": "15:45", "duration": 40, "type": "normal"},
+                {"number": 7, "start": "15:55", "end": "16:35", "duration": 40, "type": "normal"},
+                {"number": 8, "start": "17:05", "end": "17:45", "duration": 40, "type": "normal"}
+            ]
+        }
+    },
+    "eveningStudy": [
+        {
+            "classId": "c801",
+            "className": "八（11）班",
+            "day": "Monday",
+            "start": "18:20",
+            "end": "20:40",
+            "enabled": true
+        },
+        {
+            "classId": "c802",
+            "className": "八（3）班",
+            "day": "Tuesday",
+            "start": "19:50",
+            "end": "20:40",
+            "enabled": true
+        }
+    ]
+}
