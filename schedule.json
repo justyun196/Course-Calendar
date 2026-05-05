@@ -1,0 +1,43 @@
+{
+    "version": "2.0",
+    "lastUpdate": "2026-05-05",
+    "semester": "2025-2026学年第二学期",
+    "courses": [
+        {
+            "classId": "c701",
+            "className": "七（9）班",
+            "weeklySchedule": {
+                "Monday": [null, null, null, null, "物理", null, null],
+                "Tuesday": [null, null, null, "物理", null, null, null],
+                "Wednesday": [null, null, "物理", null, null, null, null],
+                "Thursday": [null, null, null, null, null, "物理", null],
+                "Friday": [null, null, null, null, null, null, "物理"]
+            }
+        },
+        {
+            "classId": "c801",
+            "className": "八（11）班",
+            "weeklySchedule": {
+                "Monday": ["物理", null, null, null, null, null, null, null],
+                "Tuesday": ["物理", null, null, null, null, null, null, null],
+                "Wednesday": [null, null, null, null, null, null, "物理", null],
+                "Thursday": [null, null, "物理", null, null, null, null, null],
+                "Friday": [null, null, null, null, null, "物理", null, null]
+            }
+        },
+        {
+            "classId": "c802",
+            "className": "八（3）班",
+            "weeklySchedule": {
+                "Monday": [null, "物理", null, null, null, null, null, null],
+                "Tuesday": [null, null, null, "物理", null, null, null, null],
+                "Wednesday": [null, null, null, "物理", null, null, null, null],
+                "Thursday": [null, null, null, null, null, null, null, "物理"],
+                "Friday": [null, null, null, "物理", null, null, null, null]
+            }
+        }
+    ],
+    "subjects": {
+        "物理": {"color": "#4CAF50", "defaultReminder": 10}
+    }
+}
