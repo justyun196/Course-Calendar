@@ -1,0 +1,36 @@
+{
+  "version": "2.0",
+  "lastModified": "2026-05-06",
+  "classes": {
+    "七（9）班": {
+      "grade": "七年级",
+      "weekly": {
+        "Monday": [null, null, null, null, "物理", null, null],
+        "Tuesday": [null, null, null, "物理", null, null, null],
+        "Wednesday": [null, null, "物理", null, null, null, null],
+        "Thursday": [null, null, null, null, null, "物理", null],
+        "Friday": [null, null, null, null, null, null, "物理"]
+      }
+    },
+    "八（11）班": {
+      "grade": "八年级",
+      "weekly": {
+        "Monday": ["物理", null, null, null, null, null, null, null],
+        "Tuesday": ["物理", null, null, null, null, null, null, null],
+        "Wednesday": [null, null, null, null, null, null, "物理", null],
+        "Thursday": [null, null, "物理", null, null, null, null, null],
+        "Friday": [null, null, null, null, null, "物理", null, null]
+      }
+    },
+    "八（3）班": {
+      "grade": "八年级",
+      "weekly": {
+        "Monday": [null, "物理", null, null, null, null, null, null],
+        "Tuesday": [null, null, null, "物理", null, null, null, null],
+        "Wednesday": [null, null, null, "物理", null, null, null, null],
+        "Thursday": [null, null, null, null, null, null, null, "物理"],
+        "Friday": [null, null, null, "物理", null, null, null, null]
+      }
+    }
+  }
+}
